@@ -1,2 +1,2 @@
 # liar-delivery
-// Corrección de bug en pasarela de pagos.
+// Corrección de bug en pasarela de pagos
